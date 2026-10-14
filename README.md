@@ -4,7 +4,7 @@
 
 **39-module feature toolkit for Valor Mortis**
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/BehemothVeteranDwell/valor-mortis-overlay/releases/download/v1.0.0/ValorMortis_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-vm--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
@@ -148,7 +148,7 @@ Game:    Valor Mortis (latest Steam version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/BehemothVeteranDwell/valor-mortis-overlay/releases/download/v1.0.0/ValorMortis_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-vm--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
